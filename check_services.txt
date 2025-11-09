@@ -1,3 +1,4 @@
-WSLService
-MySQL57
-WANWAN
+# ServiceName,ServiceStatus,
+WSLService,RUNNING,
+MySQL57,RUNNING,
+NetTcpPortSharing,STOPPED,
